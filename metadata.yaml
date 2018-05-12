@@ -1,4 +1,8 @@
 _repo: The-Merry-Christmas-of-the-Old-Woman-who-Lived-in-a-Shoe_48832
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48832-h/images/cover.jpg
 creator:
   author:
     agent_name: Baker, George M. (George Melville)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44486
     wikipedia: http://en.wikipedia.org/wiki/George_Melville_Baker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48832#The-Merry-Christmas-of-the-Old-Woman-who-Lived-in-a-Shoe
 gutenberg_issued: '2015-04-30'
 gutenberg_type: Text
 identifiers:
